@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 08cc0ba98a681a34c96d2c3c2c98a7b3
-timeCreated: 1471050607
+guid: ee5214d7ed1b02243b5b5a0247f134ca
+timeCreated: 1471166708
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -72,7 +72,7 @@ ModelImporter:
     400062: Upper_Leg_L
     400064: Upper_Leg_R
     4300000: Character
-    7400000: Run
+    7400000: Default Take
     7400002: Run
     9500000: //RootNode
     13700000: Character
@@ -98,7 +98,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     clipAnimations:
     - serializedVersion: 16
-      name: Run
+      name: Default Take
       takeName: Default Take
       firstFrame: 0
       lastFrame: 15
@@ -108,7 +108,7 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
@@ -203,7 +203,7 @@ ModelImporter:
       loop: 0
       hasAdditiveReferencePose: 0
       loopTime: 1
-      loopBlend: 0
+      loopBlend: 1
       loopBlendOrientation: 0
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0

@@ -189,14 +189,14 @@ public class PlayerController : MonoBehaviour {
         }
     }
 
-    /// <summary>
-    /// This function flips the game object when the user turns it around my moving it.
-    /// </summary>
-    //void turnAround()
-    //{
-    //    this.facingright = !facingright;
-    //    vector3 reversescale = transform.localscale;
-    //    reversescale.z *= -1;
-    //    transform.localscale = reversescale;
-    //}
+    ///// <summary>
+    ///// This function flips the game object when the user turns it around my moving it.
+    ///// </summary>
+    ////void turnAround()
+    ////{
+    ////    this.facingright = !facingright;
+    ////    vector3 reversescale = transform.localscale;
+    ////    reversescale.y *= -1;
+    ////    transform.localscale = reversescale;
+    ////}
 }
